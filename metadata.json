@@ -1,0 +1,8 @@
+{
+  "name": "Remix テレビテニス (TV Tennis Retro)",
+  "description": "1975年のクラシックゲーム機を再現したレトロなドット絵テレビテニスゲーム。シンプル操作でCPU対戦や2人対戦、壁打ちを楽しめます。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
